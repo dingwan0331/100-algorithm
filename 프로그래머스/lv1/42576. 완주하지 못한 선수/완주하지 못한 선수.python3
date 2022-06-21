@@ -1,13 +1,3 @@
 def solution(participant, completion):
-    try:
-        answer = ''
-        participant.sort()
-        completion.sort()
-        while True :
-            answer = participant.pop()
-            b = completion.pop()
-            if answer != b:
-                break
-        return answer
-    except:
-        return answer
+    answer = ''
+    return answer
