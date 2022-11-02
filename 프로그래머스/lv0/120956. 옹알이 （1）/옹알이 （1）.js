@@ -4,10 +4,7 @@ function solution(babbling) {
         for(i of c){
             b  =b.replace(i,' ')
         }
-        b = b.replace(' ','')
-        b = b.replace(' ','')
-        b = b.replace(' ','')
-        b = b.replace(' ','')
+        b = b.trim()
         return b ? a : a+1
     },0)
 }
