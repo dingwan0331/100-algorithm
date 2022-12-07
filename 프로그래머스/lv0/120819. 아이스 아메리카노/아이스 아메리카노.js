@@ -1,8 +1,6 @@
 function solution(money) {
-    var answer = [0, money];
-    while (answer[1] >= 5500){
-        answer[1] -= 5500
-        answer[0] += 1
-    }
+    var answer = [];
+    answer.push(parseInt(money / 5500))
+    answer.push(money % 5500)
     return answer;
 }
