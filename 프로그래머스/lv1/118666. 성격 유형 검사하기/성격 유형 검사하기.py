@@ -5,10 +5,6 @@ def solution(survey, choices):
         'A':0, 'N':0,
         'J':0, 'M':0
     }
-    # first = {'R':0, 'T':0,}
-    # second = {'C':0, 'F':0}
-    # third = {'A':0, 'N':0}
-    # fourth = {'J':0, 'M':0}
     
     for i in range(len(choices)):
         result = choices[i] - 4
