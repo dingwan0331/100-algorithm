@@ -1,8 +1,8 @@
 from datetime import datetime
 
 def solution(a, b):
-    year = '2016'
-    date = datetime.strptime(year+str(a)+str(b),'%Y%m%d')
-    day = ['SUN','MON','TUE','WED','THU','FRI','SAT']
-    day_idx = datetime.weekday(date)
-    return day[(day_idx+1)%7]
+    date = '2016'+str(a)+str(b)
+    date = datetime.strptime(date,'%Y%m%d')
+    week = ['SUN','MON','TUE','WED','THU','FRI','SAT']
+    day_idx = (datetime.weekday(date)+1 ) % 7
+    return week[day_idx]
