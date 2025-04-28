@@ -23,6 +23,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dingwan0331/100-algorithm/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/dingwan0331/100-algorithm/tree/master/0008-string-to-integer-atoi) |
 ## Dynamic Programming
 |  |
 | ------- |
