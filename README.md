@@ -12,6 +12,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dingwan0331/100-algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/dingwan0331/100-algorithm/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -34,6 +35,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/dingwan0331/100-algorithm/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/dingwan0331/100-algorithm/tree/master/0069-sqrtx) |
 ## Greedy
 |  |
 | ------- |
