@@ -9,6 +9,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0004-median-of-two-sorted-arrays](https://github.com/dingwan0331/100-algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/dingwan0331/100-algorithm/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/dingwan0331/100-algorithm/tree/master/0036-valid-sudoku) |
+| [0001-two-sum](https://github.com/dingwan0331/100-algorithm/tree/master/0001-two-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/dingwan0331/100-algorithm/tree/master/0036-valid-sudoku) |
+| [0001-two-sum](https://github.com/dingwan0331/100-algorithm/tree/master/0001-two-sum) |
 ## Matrix
 |  |
 | ------- |
