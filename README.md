@@ -11,6 +11,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0036-valid-sudoku](https://github.com/dingwan0331/100-algorithm/tree/master/0036-valid-sudoku) |
 | [0001-two-sum](https://github.com/dingwan0331/100-algorithm/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dingwan0331/100-algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/dingwan0331/100-algorithm/tree/master/0118-pascals-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dingwan0331/100-algorithm/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/dingwan0331/100-algorithm/tree/master/0118-pascals-triangle) |
 ## Math
 |  |
 | ------- |
