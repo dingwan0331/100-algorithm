@@ -13,6 +13,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dingwan0331/100-algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/dingwan0331/100-algorithm/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/dingwan0331/100-algorithm/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/dingwan0331/100-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0005-longest-palindromic-substring](https://github.com/dingwan0331/100-algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/dingwan0331/100-algorithm/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/dingwan0331/100-algorithm/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/dingwan0331/100-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
