@@ -38,6 +38,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0008-string-to-integer-atoi](https://github.com/dingwan0331/100-algorithm/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/dingwan0331/100-algorithm/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/dingwan0331/100-algorithm/tree/master/0014-longest-common-prefix) |
+| [0006-zigzag-conversion](https://github.com/dingwan0331/100-algorithm/tree/master/0006-zigzag-conversion) |
 ## Dynamic Programming
 |  |
 | ------- |
