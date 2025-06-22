@@ -39,6 +39,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0012-integer-to-roman](https://github.com/dingwan0331/100-algorithm/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/dingwan0331/100-algorithm/tree/master/0014-longest-common-prefix) |
 | [0006-zigzag-conversion](https://github.com/dingwan0331/100-algorithm/tree/master/0006-zigzag-conversion) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/dingwan0331/100-algorithm/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,4 +107,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0136-single-number](https://github.com/dingwan0331/100-algorithm/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/dingwan0331/100-algorithm/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
