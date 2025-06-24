@@ -54,10 +54,12 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0007-reverse-integer](https://github.com/dingwan0331/100-algorithm/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/dingwan0331/100-algorithm/tree/master/0069-sqrtx) |
 | [0012-integer-to-roman](https://github.com/dingwan0331/100-algorithm/tree/master/0012-integer-to-roman) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/dingwan0331/100-algorithm/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dingwan0331/100-algorithm/tree/master/0011-container-with-most-water) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/dingwan0331/100-algorithm/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Linked List
 |  |
 | ------- |
