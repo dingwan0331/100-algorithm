@@ -16,6 +16,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dingwan0331/100-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/dingwan0331/100-algorithm/tree/master/0136-single-number) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/dingwan0331/100-algorithm/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/dingwan0331/100-algorithm/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Binary Search
 |  |
 | ------- |
