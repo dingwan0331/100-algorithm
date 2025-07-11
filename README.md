@@ -17,6 +17,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0136-single-number](https://github.com/dingwan0331/100-algorithm/tree/master/0136-single-number) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/dingwan0331/100-algorithm/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/dingwan0331/100-algorithm/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/dingwan0331/100-algorithm/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0005-longest-palindromic-substring](https://github.com/dingwan0331/100-algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/dingwan0331/100-algorithm/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dingwan0331/100-algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/dingwan0331/100-algorithm/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## String
 |  |
 | ------- |
