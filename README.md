@@ -20,6 +20,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/dingwan0331/100-algorithm/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [0015-3sum](https://github.com/dingwan0331/100-algorithm/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/dingwan0331/100-algorithm/tree/main/0027-remove-element/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dingwan0331/100-algorithm/tree/main/Kotlin/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/dingwan0331/100-algorithm/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [0015-3sum](https://github.com/dingwan0331/100-algorithm/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/dingwan0331/100-algorithm/tree/main/0027-remove-element/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dingwan0331/100-algorithm/tree/main/Kotlin/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
