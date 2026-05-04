@@ -21,6 +21,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0015-3sum](https://github.com/dingwan0331/100-algorithm/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/dingwan0331/100-algorithm/tree/main/0027-remove-element/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dingwan0331/100-algorithm/tree/main/Kotlin/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0016-3sum-closest](https://github.com/dingwan0331/100-algorithm/tree/main/Kotlin/Medium/0016-3sum-closest/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0015-3sum](https://github.com/dingwan0331/100-algorithm/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/dingwan0331/100-algorithm/tree/main/0027-remove-element/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dingwan0331/100-algorithm/tree/main/Kotlin/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0016-3sum-closest](https://github.com/dingwan0331/100-algorithm/tree/main/Kotlin/Medium/0016-3sum-closest/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,4 +133,5 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/dingwan0331/100-algorithm/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/dingwan0331/100-algorithm/tree/main/Kotlin/Medium/0016-3sum-closest/) | Medium |
 <!---LeetCode Topics End-->
