@@ -53,6 +53,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0006-zigzag-conversion](https://github.com/dingwan0331/100-algorithm/tree/master/0006-zigzag-conversion) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/dingwan0331/100-algorithm/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [0010-regular-expression-matching](https://github.com/dingwan0331/100-algorithm/tree/master/0010-regular-expression-matching) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/dingwan0331/100-algorithm/tree/main/Kotlin/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0036-valid-sudoku](https://github.com/dingwan0331/100-algorithm/tree/master/0036-valid-sudoku) |
 | [0001-two-sum](https://github.com/dingwan0331/100-algorithm/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/dingwan0331/100-algorithm/tree/master/0012-integer-to-roman) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/dingwan0331/100-algorithm/tree/main/Kotlin/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,4 +136,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- | ------- |
 | [0015-3sum](https://github.com/dingwan0331/100-algorithm/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dingwan0331/100-algorithm/tree/main/Kotlin/Medium/0016-3sum-closest/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/dingwan0331/100-algorithm/tree/main/Kotlin/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 <!---LeetCode Topics End-->
