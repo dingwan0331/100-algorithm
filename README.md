@@ -54,6 +54,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/dingwan0331/100-algorithm/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [0010-regular-expression-matching](https://github.com/dingwan0331/100-algorithm/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dingwan0331/100-algorithm/tree/main/Kotlin/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/dingwan0331/100-algorithm/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0119-pascals-triangle-ii](https://github.com/dingwan0331/100-algorithm/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dingwan0331/100-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0010-regular-expression-matching](https://github.com/dingwan0331/100-algorithm/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/dingwan0331/100-algorithm/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,4 +142,9 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dingwan0331/100-algorithm/tree/main/Kotlin/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/dingwan0331/100-algorithm/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/dingwan0331/100-algorithm/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
